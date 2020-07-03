@@ -15,3 +15,7 @@
 #### Complexity Analysis
 * Time complexity : O(n). We traverse the list containing nn elements exactly twice. Since the hash table reduces the look up time to O(1), the time complexity is O(n).
 * Space complexity : O(n). The extra space required depends on the number of items stored in the object, which stores exactly n elements.
+
+### Approach 3: One-pass Hash Table
+* Time complexity : O(n). We traverse the list containing nn elements only once. Each look up in the table costs only O(1) time.
+* Space complexity : O(n). The extra space required depends on the number of items stored in the Map object, which stores at most nn elements.
