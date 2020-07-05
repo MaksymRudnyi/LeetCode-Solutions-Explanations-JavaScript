@@ -3,5 +3,5 @@
 * Memory Usage: 37.7 MB, less than 10.78% of JavaScript online submissions for Reverse Integer.
 
 ### Approach 2: Pop and Push digits
-* Runtime: 84 ms, faster than 70.09% of JavaScript online submissions for Reverse Integer.
-* Memory Usage: 36.4 MB, less than 47.08% of JavaScript online submissions for Reverse Integer.
+* Runtime: 72 ms, faster than 94.38% of JavaScript online submissions for Reverse Integer.
+* Memory Usage: 37.2 MB, less than 38.77% of JavaScript online submissions for Reverse Integer.
