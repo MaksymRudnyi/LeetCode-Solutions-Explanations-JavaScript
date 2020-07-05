@@ -12,12 +12,14 @@ var reverse = function(x) {
         x = -1 * x;
     }
 
-    while(x) {
-        const pop = x % 10;
+    // while(x) {
+    //     const pop = x % 10;
+    //     x = Math.trunc(x / 10);
+    //     revert = revert * 10 + pop
+    // }
 
-        x = Math.floor(x / 10);
-
-        revert = revert * 10 + pop;
+    for (let i = x; i; i = Math.trunc(i / 10)) {
+        revert = revert * 10 + i % 10
     }
 
 
