@@ -9,3 +9,6 @@
 ### Approach 2: ReqExp
 * Runtime: 84 ms, faster than 21.28% of JavaScript online submissions for Valid Parentheses.
 * Memory Usage: 39.4 MB, less than 6.98% of JavaScript online submissions for Valid Parentheses.
+
+## Video Explanation
+[![LeetCode Valid Parentheses](https://img.youtube.com/vi/erfZKYYH9jw/0.jpg)](https://www.youtube.com/watch?v=erfZKYYH9jw "LeetCode Valid Parentheses")
